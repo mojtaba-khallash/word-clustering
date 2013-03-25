@@ -96,8 +96,8 @@ For example:
 
 > java -jar WordClustering.jar -v 0 -i input.conll -o output.conll -c 100 -m lemm -p 10
 
-** For running word clustering algorithm you can used the [Liang implementation] (http://cs.stanford.edu/~pliang/software/) [3] 
-   of  the Brown algorithm to obtain the necessary word clusters.
+For running word clustering algorithm you can used the [Liang implementation] (http://cs.stanford.edu/~pliang/software/) [3] 
+of  the Brown algorithm to obtain the necessary word clusters.
 
 4. References
 ------------
